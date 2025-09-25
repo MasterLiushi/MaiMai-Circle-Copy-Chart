@@ -1,2 +1,2 @@
 # MaiMai-Circle-Copy-Chart
-MaiMai Circle的在线谱抄谱
+MaiMai Circle的抄谱
