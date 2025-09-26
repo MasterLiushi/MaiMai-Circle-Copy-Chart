@@ -9,3 +9,6 @@ https://github.com/MasterLiushi/MaiMai-Circle-Copy-Chart
 
 --2025.09.26更新:
 添加：11882绿/黄/红/紫
+
+--2025.9.26更新:
+添加：11919紫 11920紫
