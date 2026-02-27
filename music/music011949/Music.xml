@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <dataName>music011883</dataName>
+  <dataName>music011949</dataName>
   <netOpenName>
     <id>260220</id>
     <str>Net260220</str>
@@ -12,116 +12,116 @@
   <disable>false</disable>
   <longMusic>0</longMusic>
   <name>
-    <id>11883</id>
-    <str>廃墟にいますキャンペーン</str>
+    <id>11949</id>
+    <str>むしみこうにゃーのハッピッピー</str>
   </name>
   <rightsInfoName>
-    <id>0</id>
+    <id>267</id>
     <str />
   </rightsInfoName>
-  <sortName>ハイキヨニイマスキヤンヘエン</sortName>
+  <sortName>ムシミコウニヤアノハツヒツヒイ</sortName>
   <artistName>
-    <id>1091</id>
-    <str>吉田夜世 feat.ちっく。</str>
+    <id>999</id>
+    <str>ARM×狐夢想 feat. miko×山本椛</str>
   </artistName>
   <genreName>
-    <id>105</id>
-    <str>maimai</str>
+    <id>103</id>
+    <str>東方Project</str>
   </genreName>
-  <bpm>215</bpm>
-  <version>26003</version>
+  <bpm>225</bpm>
+  <version>26000</version>
   <AddVersion>
     <id>25</id>
     <str>CiRCLE</str>
   </AddVersion>
   <movieName>
-    <id>1883</id>
-    <str>廃墟にいますキャンペーン</str>
+    <id>1949</id>
+    <str>むしみこうにゃーのハッピッピー</str>
   </movieName>
   <cueName>
-    <id>1883</id>
-    <str>廃墟にいますキャンペーン</str>
+    <id>1949</id>
+    <str>むしみこうにゃーのハッピッピー</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>260220022</id>
-    <str>260220_02_2：フェスタ報酬楽曲 1曲(Lock)</str>
+    <id>1</id>
+    <str>無期限常時解放</str>
   </eventName>
   <eventName2>
-    <id>260327023</id>
-    <str>260327_02_3：フェスタ報酬楽曲 一般開放《廃墟にいますキャンペーン、Magical Flavor》</str>
+    <id>0</id>
+    <str>解放なし</str>
   </eventName2>
   <subEventName>
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>5</lockType>
-  <subLockType>1</subLockType>
+  <lockType>0</lockType>
+  <subLockType>0</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
       <file>
-        <path>011883_00.ma2</path>
+        <path>011949_00.ma2</path>
       </file>
-      <level>5</level>
+      <level>3</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>5</musicLevelID>
-      <maxNotes>270</maxNotes>
+      <musicLevelID>3</musicLevelID>
+      <maxNotes>172</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011883_01.ma2</path>
+        <path>011949_01.ma2</path>
       </file>
-      <level>8</level>
-      <levelDecimal>0</levelDecimal>
+      <level>7</level>
+      <levelDecimal>7</levelDecimal>
       <notesDesigner>
         <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>9</musicLevelID>
-      <maxNotes>407</maxNotes>
+      <musicLevelID>8</musicLevelID>
+      <maxNotes>281</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011883_02.ma2</path>
+        <path>011949_02.ma2</path>
       </file>
-      <level>10</level>
-      <levelDecimal>8</levelDecimal>
+      <level>11</level>
+      <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>128</id>
-        <str>Luxizhel</str>
+        <id>27</id>
+        <str>サファ太</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>14</musicLevelID>
-      <maxNotes>583</maxNotes>
+      <musicLevelID>15</musicLevelID>
+      <maxNotes>511</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011883_03.ma2</path>
+        <path>011949_03.ma2</path>
       </file>
       <level>13</level>
-      <levelDecimal>9</levelDecimal>
+      <levelDecimal>6</levelDecimal>
       <notesDesigner>
-        <id>2</id>
-        <str>はっぴー</str>
+        <id>31</id>
+        <str>じゃこレモン</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>20</musicLevelID>
-      <maxNotes>879</maxNotes>
+      <maxNotes>729</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011883_04.ma2</path>
+        <path>011949_04.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -136,7 +136,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>011883_05.ma2</path>
+        <path>011949_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>

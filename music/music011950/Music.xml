@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <dataName>music011883</dataName>
+  <dataName>music011950</dataName>
   <netOpenName>
     <id>260220</id>
     <str>Net260220</str>
@@ -12,116 +12,116 @@
   <disable>false</disable>
   <longMusic>0</longMusic>
   <name>
-    <id>11883</id>
-    <str>廃墟にいますキャンペーン</str>
+    <id>11950</id>
+    <str>ラプラスショコラ</str>
   </name>
   <rightsInfoName>
-    <id>0</id>
-    <str />
+    <id>273</id>
+    <str>©2024 Kai  ©DWANGO Co., Ltd.</str>
   </rightsInfoName>
-  <sortName>ハイキヨニイマスキヤンヘエン</sortName>
+  <sortName>ラフラスシヨコラ</sortName>
   <artistName>
-    <id>1091</id>
-    <str>吉田夜世 feat.ちっく。</str>
+    <id>905</id>
+    <str>Kai</str>
   </artistName>
   <genreName>
-    <id>105</id>
-    <str>maimai</str>
+    <id>102</id>
+    <str>niconicoボーカロイド</str>
   </genreName>
-  <bpm>215</bpm>
+  <bpm>130</bpm>
   <version>26003</version>
   <AddVersion>
     <id>25</id>
     <str>CiRCLE</str>
   </AddVersion>
   <movieName>
-    <id>1883</id>
-    <str>廃墟にいますキャンペーン</str>
+    <id>1950</id>
+    <str>ラプラスショコラ</str>
   </movieName>
   <cueName>
-    <id>1883</id>
-    <str>廃墟にいますキャンペーン</str>
+    <id>1950</id>
+    <str>ラプラスショコラ</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>260220022</id>
-    <str>260220_02_2：フェスタ報酬楽曲 1曲(Lock)</str>
+    <id>260220021</id>
+    <str>260220_02_1：niconico1曲追加《ラプラスショコラ,ヒアソビ》</str>
   </eventName>
   <eventName2>
-    <id>260327023</id>
-    <str>260327_02_3：フェスタ報酬楽曲 一般開放《廃墟にいますキャンペーン、Magical Flavor》</str>
+    <id>0</id>
+    <str>解放なし</str>
   </eventName2>
   <subEventName>
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>5</lockType>
+  <lockType>0</lockType>
   <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
       <file>
-        <path>011883_00.ma2</path>
+        <path>011950_00.ma2</path>
       </file>
-      <level>5</level>
+      <level>2</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>5</musicLevelID>
-      <maxNotes>270</maxNotes>
+      <musicLevelID>2</musicLevelID>
+      <maxNotes>158</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011883_01.ma2</path>
+        <path>011950_01.ma2</path>
       </file>
-      <level>8</level>
-      <levelDecimal>0</levelDecimal>
+      <level>6</level>
+      <levelDecimal>2</levelDecimal>
       <notesDesigner>
         <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>9</musicLevelID>
-      <maxNotes>407</maxNotes>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>254</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011883_02.ma2</path>
+        <path>011950_02.ma2</path>
       </file>
-      <level>10</level>
-      <levelDecimal>8</levelDecimal>
+      <level>9</level>
+      <levelDecimal>9</levelDecimal>
       <notesDesigner>
         <id>128</id>
         <str>Luxizhel</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>14</musicLevelID>
-      <maxNotes>583</maxNotes>
+      <musicLevelID>12</musicLevelID>
+      <maxNotes>403</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011883_03.ma2</path>
+        <path>011950_03.ma2</path>
       </file>
-      <level>13</level>
+      <level>12</level>
       <levelDecimal>9</levelDecimal>
       <notesDesigner>
         <id>2</id>
         <str>はっぴー</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>20</musicLevelID>
-      <maxNotes>879</maxNotes>
+      <musicLevelID>18</musicLevelID>
+      <maxNotes>691</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011883_04.ma2</path>
+        <path>011950_04.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -136,7 +136,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>011883_05.ma2</path>
+        <path>011950_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>Map600060</dataName>
+  <name>
+    <id>600060</id>
+    <str>IOSYSちほー</str>
+  </name>
+  <IsCollabo>true</IsCollabo>
+  <IsInfinity>false</IsInfinity>
+  <IslandId>
+    <id>60</id>
+    <str>maimaiDX CiRCLE</str>
+  </IslandId>
+  <ReleaseConditionIds>
+    <list />
+  </ReleaseConditionIds>
+  <ColorId>
+    <id>600060</id>
+    <str>IOSYS</str>
+  </ColorId>
+  <BonusMusicId>
+    <id>600060</id>
+    <str>IOSYSちほーボーナス曲</str>
+  </BonusMusicId>
+  <BonusMusicMagnification>2000</BonusMusicMagnification>
+  <OpenEventId>
+    <id>260220041</id>
+    <str>260220_04_1：IOSYSちほー 解禁</str>
+  </OpenEventId>
+  <netOpenName>
+    <id>260220</id>
+    <str>Net260220</str>
+  </netOpenName>
+  <TreasureExDatas>
+    <MapTreasureExData>
+      <Distance>0</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606001</id>
+        <str>博麗 霊夢</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>25000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606071</id>
+        <str>恋の氷結おてんば湯けむりチルノ温泉</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>50000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606051</id>
+        <str>IOSYSちほー その1</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>75000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606061</id>
+        <str>IOSYSちほー その1</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>100000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606002</id>
+        <str>霧雨 魔理沙</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>125000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606003</id>
+        <str>チルノ</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>175000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606072</id>
+        <str>イタ電はやめて！ ぼくらのスカーレット・コール</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>200000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606052</id>
+        <str>IOSYSちほー その2</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>250000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606062</id>
+        <str>IOSYSちほー その2</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>300000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606004</id>
+        <str>十六夜 咲夜</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>325000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606005</id>
+        <str>レミリア・スカーレット</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>375000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606073</id>
+        <str>むしみこうにゃーのハッピッピー</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>400000</Distance>
+      <Flag>End</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606063</id>
+        <str>IOSYSちほー その3</str>
+      </TreasureId>
+    </MapTreasureExData>
+  </TreasureExDatas>
+</MapData>

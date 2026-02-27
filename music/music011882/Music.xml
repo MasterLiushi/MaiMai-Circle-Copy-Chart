@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011882</dataName>
   <netOpenName>
-    <id>250918</id>
-    <str>Net250918</str>
+    <id>260122</id>
+    <str>Net260122</str>
   </netOpenName>
   <releaseTagName>
     <id>6001</id>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>250918025</id>
-    <str>250918_02_5：トリコロちほー 1曲+2曲(Lock)追加</str>
+    <id>260122023</id>
+    <str>260122_02_3：トリコロちほー 1曲+2曲(Lock)追加</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -55,7 +55,7 @@
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>1</lockType>
+  <lockType>2</lockType>
   <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
