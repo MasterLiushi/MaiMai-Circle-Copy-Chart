@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UdemaeBossData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>udemaeBoss000004</dataName>
+  <name>
+    <id>4</id>
+    <str>A1</str>
+  </name>
+  <notesDesigner>
+    <id>13</id>
+    <str>maimai TEAM</str>
+  </notesDesigner>
+  <music>
+    <id>63</id>
+    <str>メランコリック</str>
+  </music>
+  <difficulty>
+    <id>3</id>
+    <str>Master</str>
+  </difficulty>
+  <achieve>985000</achieve>
+  <achieveUnder>984000</achieveUnder>
+  <rating>9000</rating>
+  <daniId>
+    <id>6</id>
+    <str>六段</str>
+  </daniId>
+  <isTransmission>false</isTransmission>
+  <transmissionRelaxEventId>
+    <id>0</id>
+    <str>解放なし</str>
+  </transmissionRelaxEventId>
+</UdemaeBossData>

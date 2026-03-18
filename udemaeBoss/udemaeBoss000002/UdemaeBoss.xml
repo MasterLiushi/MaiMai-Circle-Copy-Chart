@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UdemaeBossData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>udemaeBoss000002</dataName>
+  <name>
+    <id>2</id>
+    <str>A3</str>
+  </name>
+  <notesDesigner>
+    <id>128</id>
+    <str>Luxizhel</str>
+  </notesDesigner>
+  <music>
+    <id>11552</id>
+    <str>Y.Y.Y.計画!!!!</str>
+  </music>
+  <difficulty>
+    <id>2</id>
+    <str>Expert</str>
+  </difficulty>
+  <achieve>975000</achieve>
+  <achieveUnder>974000</achieveUnder>
+  <rating>8000</rating>
+  <daniId>
+    <id>5</id>
+    <str>五段</str>
+  </daniId>
+  <isTransmission>false</isTransmission>
+  <transmissionRelaxEventId>
+    <id>0</id>
+    <str>解放なし</str>
+  </transmissionRelaxEventId>
+</UdemaeBossData>

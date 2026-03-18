@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>event260305012</dataName>
+  <name>
+    <id>260305012</id>
+    <str>260305_01_2：伝導楽曲紹介</str>
+  </name>
+  <infoType>0</infoType>
+  <alwaysOpen>false</alwaysOpen>
+  <disableArea>---</disableArea>
+</EventData>

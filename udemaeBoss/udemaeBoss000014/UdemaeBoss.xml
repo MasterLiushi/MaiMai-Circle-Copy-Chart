@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UdemaeBossData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>udemaeBoss000014</dataName>
+  <name>
+    <id>14</id>
+    <str>SS1</str>
+  </name>
+  <notesDesigner>
+    <id>94</id>
+    <str>カマボコ君</str>
+  </notesDesigner>
+  <music>
+    <id>11738</id>
+    <str>YKWTD</str>
+  </music>
+  <difficulty>
+    <id>3</id>
+    <str>Master</str>
+  </difficulty>
+  <achieve>1003000</achieve>
+  <achieveUnder>1002000</achieveUnder>
+  <rating>14000</rating>
+  <daniId>
+    <id>16</id>
+    <str>真五段</str>
+  </daniId>
+  <isTransmission>false</isTransmission>
+  <transmissionRelaxEventId>
+    <id>0</id>
+    <str>解放なし</str>
+  </transmissionRelaxEventId>
+</UdemaeBossData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InformationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>information260305013</dataName>
+  <disable>false</disable>
+  <name>
+    <id>260305013</id>
+    <str>260305_01_3：maimai曲紹介1《Customized Justice》</str>
+  </name>
+  <eventName>
+    <id>260305013</id>
+    <str>260305_01_3：maimai曲紹介1《Customized Justice》</str>
+  </eventName>
+  <infoText>maimai曲紹介1《Customized Justice》</infoText>
+  <fileName>
+    <path>UI_DXInfo_260305013.png</path>
+  </fileName>
+  <infoKind>Music</infoKind>
+</InformationData>

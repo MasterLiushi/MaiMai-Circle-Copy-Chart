@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>Map600061</dataName>
+  <name>
+    <id>600061</id>
+    <str>オンゲキちほー9</str>
+  </name>
+  <IsCollabo>true</IsCollabo>
+  <IsInfinity>false</IsInfinity>
+  <IslandId>
+    <id>60</id>
+    <str>maimaiDX CiRCLE</str>
+  </IslandId>
+  <ReleaseConditionIds>
+    <list />
+  </ReleaseConditionIds>
+  <ColorId>
+    <id>600061</id>
+    <str>オンゲキ9</str>
+  </ColorId>
+  <BonusMusicId>
+    <id>600061</id>
+    <str>オンゲキちほー9ボーナス曲</str>
+  </BonusMusicId>
+  <BonusMusicMagnification>2000</BonusMusicMagnification>
+  <OpenEventId>
+    <id>260305031</id>
+    <str>260305_03_1：オンゲキちほー9 解禁</str>
+  </OpenEventId>
+  <netOpenName>
+    <id>260305</id>
+    <str>Net260305</str>
+  </netOpenName>
+  <TreasureExDatas>
+    <MapTreasureExData>
+      <Distance>0</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606101</id>
+        <str>星咲 あかり（WakeUP MakeUP FEVER!）</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>25000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606171</id>
+        <str>WakeUP MakeUP FEVER!</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>50000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606102</id>
+        <str>高瀬 梨緒（WakeUP MakeUP FEVER!）</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>75000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606103</id>
+        <str>藍原 椿（WakeUP MakeUP FEVER!）</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>100000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606104</id>
+        <str>桜井 春菜（WakeUP MakeUP FEVER!）</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>125000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606105</id>
+        <str>東雲 つむぎ（WakeUP MakeUP FEVER!）</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>200000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606172</id>
+        <str>give it up to you</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>250000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606106</id>
+        <str>早乙女 彩華（シュータードレス）</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>300000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606107</id>
+        <str>桜井 春菜（シュータードレス）</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>375000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606173</id>
+        <str>ICEBURN</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>425000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606151</id>
+        <str>bitter flavor</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>525000</Distance>
+      <Flag>DispCharacter</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606174</id>
+        <str>Daredevil Glaive</str>
+      </TreasureId>
+    </MapTreasureExData>
+    <MapTreasureExData>
+      <Distance>600000</Distance>
+      <Flag>End</Flag>
+      <SubParam1>-1</SubParam1>
+      <SubParam2>-1</SubParam2>
+      <TreasureId>
+        <id>606161</id>
+        <str>オンゲキちほー9</str>
+      </TreasureId>
+    </MapTreasureExData>
+  </TreasureExDatas>
+</MapData>

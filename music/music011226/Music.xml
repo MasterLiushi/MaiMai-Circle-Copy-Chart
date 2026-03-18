@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011226</dataName>
   <netOpenName>
-    <id>210318</id>
-    <str>Net210318</str>
+    <id>210730</id>
+    <str>Net210730</str>
   </netOpenName>
   <releaseTagName>
     <id>1501</id>
@@ -52,8 +52,8 @@
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>1</id>
-    <str>解放なし</str>
+    <id>260327022</id>
+    <str>260327_02_2：Re:MASTER解禁《YA･DA･YO [Reborn],Aetheric Energy,時計の国のジェミニ,アンビバレンス,[X]》</str>
   </subEventName>
   <lockType>0</lockType>
   <subLockType>0</subLockType>
@@ -126,7 +126,7 @@
       <level>13</level>
       <levelDecimal>7</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>63</id>
         <str>アマリリス</str>
       </notesDesigner>
       <notesType>0</notesType>

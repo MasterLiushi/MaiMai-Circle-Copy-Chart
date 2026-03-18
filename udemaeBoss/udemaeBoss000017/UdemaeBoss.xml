@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UdemaeBossData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>udemaeBoss000017</dataName>
+  <name>
+    <id>17</id>
+    <str>SSS3</str>
+  </name>
+  <notesDesigner>
+    <id>127</id>
+    <str>鳩ホルダー</str>
+  </notesDesigner>
+  <music>
+    <id>11789</id>
+    <str>Abstruse Dilemma</str>
+  </music>
+  <difficulty>
+    <id>3</id>
+    <str>Master</str>
+  </difficulty>
+  <achieve>1007000</achieve>
+  <achieveUnder>1006000</achieveUnder>
+  <rating>16000</rating>
+  <daniId>
+    <id>19</id>
+    <str>真八段</str>
+  </daniId>
+  <isTransmission>false</isTransmission>
+  <transmissionRelaxEventId>
+    <id>0</id>
+    <str>解放なし</str>
+  </transmissionRelaxEventId>
+</UdemaeBossData>

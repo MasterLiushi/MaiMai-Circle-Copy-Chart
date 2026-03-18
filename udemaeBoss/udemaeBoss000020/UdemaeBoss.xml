@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UdemaeBossData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>udemaeBoss000020</dataName>
+  <name>
+    <id>20</id>
+    <str>LEGEND</str>
+  </name>
+  <notesDesigner>
+    <id>67</id>
+    <str>7.3GHz</str>
+  </notesDesigner>
+  <music>
+    <id>11898</id>
+    <str>7 Wonders</str>
+  </music>
+  <difficulty>
+    <id>3</id>
+    <str>Master</str>
+  </difficulty>
+  <achieve>1009600</achieve>
+  <achieveUnder>1009600</achieveUnder>
+  <rating>16400</rating>
+  <daniId>
+    <id>22</id>
+    <str>真皆伝</str>
+  </daniId>
+  <isTransmission>true</isTransmission>
+  <transmissionRelaxEventId>
+    <id>0</id>
+    <str>解放なし</str>
+  </transmissionRelaxEventId>
+</UdemaeBossData>

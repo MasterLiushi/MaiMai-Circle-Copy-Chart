@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UdemaeBossData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>udemaeBoss000019</dataName>
+  <name>
+    <id>19</id>
+    <str>SSS1</str>
+  </name>
+  <notesDesigner>
+    <id>2</id>
+    <str>はっぴー</str>
+  </notesDesigner>
+  <music>
+    <id>11392</id>
+    <str>Metamorphosism</str>
+  </music>
+  <difficulty>
+    <id>3</id>
+    <str>Master</str>
+  </difficulty>
+  <achieve>1009300</achieve>
+  <achieveUnder>1008800</achieveUnder>
+  <rating>16300</rating>
+  <daniId>
+    <id>21</id>
+    <str>真十段</str>
+  </daniId>
+  <isTransmission>false</isTransmission>
+  <transmissionRelaxEventId>
+    <id>0</id>
+    <str>解放なし</str>
+  </transmissionRelaxEventId>
+</UdemaeBossData>

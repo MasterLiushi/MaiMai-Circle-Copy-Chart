@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UdemaeBossData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>udemaeBoss000022</dataName>
+  <name>
+    <id>22</id>
+    <str>SS5</str>
+  </name>
+  <notesDesigner>
+    <id>67</id>
+    <str>7.3GHz</str>
+  </notesDesigner>
+  <music>
+    <id>11898</id>
+    <str>7 Wonders</str>
+  </music>
+  <difficulty>
+    <id>3</id>
+    <str>Master</str>
+  </difficulty>
+  <achieve>970000</achieve>
+  <achieveUnder>970000</achieveUnder>
+  <rating>16400</rating>
+  <daniId>
+    <id>22</id>
+    <str>真皆伝</str>
+  </daniId>
+  <isTransmission>false</isTransmission>
+  <transmissionRelaxEventId>
+    <id>260529024</id>
+    <str>260529_02_4：伝導楽曲の条件緩和（2回目）</str>
+  </transmissionRelaxEventId>
+</UdemaeBossData>

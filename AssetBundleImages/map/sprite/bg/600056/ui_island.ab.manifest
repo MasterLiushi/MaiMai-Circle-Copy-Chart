@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3357882851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36756561c427d35268d5df92e9596cb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/Map/Sprite/BG/600056/UI_Island.png
+Dependencies: []

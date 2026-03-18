@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InformationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>information260327012</dataName>
+  <disable>false</disable>
+  <name>
+    <id>260327012</id>
+    <str>260327_01_2：Re:MASTER譜面紹介</str>
+  </name>
+  <eventName>
+    <id>260327012</id>
+    <str>260327_01_2：Re:MASTER譜面紹介</str>
+  </eventName>
+  <infoText>Re:MASTER譜面紹介</infoText>
+  <fileName>
+    <path>UI_DXInfo_260327012.png</path>
+  </fileName>
+  <infoKind>Music</infoKind>
+</InformationData>

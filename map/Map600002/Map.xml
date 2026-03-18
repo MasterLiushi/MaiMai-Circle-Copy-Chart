@@ -12,24 +12,24 @@
     <str>maimaiDX CiRCLE</str>
   </IslandId>
   <ReleaseConditionIds>
-    <list/>
+    <list />
   </ReleaseConditionIds>
   <ColorId>
     <id>600002</id>
-    <str>黒系</str>
+    <str>kawaii2</str>
   </ColorId>
   <BonusMusicId>
-    <id>6</id>
-    <str>かわいいエリアボーナス曲</str>
+    <id>600002</id>
+    <str>kawaiiちほー2ボーナス曲</str>
   </BonusMusicId>
   <BonusMusicMagnification>2000</BonusMusicMagnification>
   <OpenEventId>
-    <id>251107031</id>
-    <str>251107_03_1：kawaiiちほー2 解禁</str>
+    <id>260319031</id>
+    <str>260319_03_1：kawaiiちほー2 解禁</str>
   </OpenEventId>
   <netOpenName>
-    <id>251107</id>
-    <str>Net251107</str>
+    <id>260319</id>
+    <str>Net260319</str>
   </netOpenName>
   <TreasureExDatas>
     <MapTreasureExData>
@@ -89,7 +89,7 @@
       <SubParam2>-1</SubParam2>
       <TreasureId>
         <id>600203</id>
-        <str>アサド</str>
+        <str>オクト</str>
       </TreasureId>
     </MapTreasureExData>
     <MapTreasureExData>

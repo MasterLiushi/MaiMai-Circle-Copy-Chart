@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InformationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>information260327011</dataName>
+  <disable>false</disable>
+  <name>
+    <id>260327011</id>
+    <str>260327_01_1：Project ONSOKUちほー 紹介</str>
+  </name>
+  <eventName>
+    <id>260327011</id>
+    <str>260327_01_1：Project ONSOKUちほー 紹介</str>
+  </eventName>
+  <infoText>Project ONSOKUちほー 紹介</infoText>
+  <fileName>
+    <path>UI_DXInfo_260327011.png</path>
+  </fileName>
+  <infoKind>Event</infoKind>
+</InformationData>

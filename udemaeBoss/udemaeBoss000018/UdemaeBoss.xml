@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UdemaeBossData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>udemaeBoss000018</dataName>
+  <name>
+    <id>18</id>
+    <str>SSS2</str>
+  </name>
+  <notesDesigner>
+    <id>9</id>
+    <str>ぴちネコ</str>
+  </notesDesigner>
+  <music>
+    <id>11103</id>
+    <str>渦状銀河のシンフォニエッタ</str>
+  </music>
+  <difficulty>
+    <id>3</id>
+    <str>Master</str>
+  </difficulty>
+  <achieve>1008500</achieve>
+  <achieveUnder>1008000</achieveUnder>
+  <rating>16100</rating>
+  <daniId>
+    <id>20</id>
+    <str>真九段</str>
+  </daniId>
+  <isTransmission>false</isTransmission>
+  <transmissionRelaxEventId>
+    <id>0</id>
+    <str>解放なし</str>
+  </transmissionRelaxEventId>
+</UdemaeBossData>

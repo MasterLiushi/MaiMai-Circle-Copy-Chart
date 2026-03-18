@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InformationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>information260319012</dataName>
+  <disable>false</disable>
+  <name>
+    <id>260319012</id>
+    <str>260319_01_2：連動楽曲1曲紹介《Galaxy Blaster》</str>
+  </name>
+  <eventName>
+    <id>260319012</id>
+    <str>260319_01_2：連動楽曲1曲紹介《Galaxy Blaster》</str>
+  </eventName>
+  <infoText>連動楽曲1曲紹介《Galaxy Blaster》</infoText>
+  <fileName>
+    <path>UI_DXInfo_260319012.png</path>
+  </fileName>
+  <infoKind>Music</infoKind>
+</InformationData>

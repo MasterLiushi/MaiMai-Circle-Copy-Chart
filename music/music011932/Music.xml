@@ -1,26 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011932</dataName>
   <netOpenName>
-    <id>251120</id>
-    <str>Net251120</str>
+    <id>260327</id>
+    <str>Net260327</str>
   </netOpenName>
   <releaseTagName>
-    <id>6006</id>
-    <str>Ver1.62.03</str>
+    <id>6001</id>
+    <str>Ver1.60.00</str>
   </releaseTagName>
   <disable>false</disable>
+  <longMusic>0</longMusic>
   <name>
     <id>11932</id>
     <str>ジェットブラック</str>
   </name>
   <rightsInfoName>
-    <id>0</id>
-    <str />
+    <id>271</id>
+    <str>© Crypton Future Media, INC. www.piapro.net (+piapro logo) ©SEGA</str>
   </rightsInfoName>
-  <sortName>ジェットブラック</sortName>
+  <sortName>シエツトフラツク</sortName>
   <artistName>
-    <id>999</id>
+    <id>1100</id>
     <str>雄之助</str>
   </artistName>
   <genreName>
@@ -28,7 +29,7 @@
     <str>niconicoボーカロイド</str>
   </genreName>
   <bpm>170</bpm>
-  <version>26006</version>
+  <version>26007</version>
   <AddVersion>
     <id>25</id>
     <str>CiRCLE</str>
@@ -43,19 +44,19 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>260327021</id>
+    <str>260327_02_1：Project ONSOKUちほー 5曲追加《最愛人生ランナー、ウィーアーピコピコハンマーズ!!!!、ジェットブラック、トレジャーガーデン、電光刹歌》</str>
   </eventName>
   <eventName2>
     <id>0</id>
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>1</id>
+    <id>0</id>
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -65,8 +66,8 @@
       <level>4</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>999</id>
-        <str>-</str>
+        <id>0</id>
+        <str />
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>4</musicLevelID>
@@ -80,8 +81,8 @@
       <level>7</level>
       <levelDecimal>5</levelDecimal>
       <notesDesigner>
-        <id>999</id>
-        <str>-</str>
+        <id>0</id>
+        <str />
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>7</musicLevelID>
@@ -100,7 +101,7 @@
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>13</musicLevelID>
-      <maxNotes>547</maxNotes>
+      <maxNotes>541</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
@@ -149,6 +150,27 @@
       <isEnable>false</isEnable>
     </Notes>
   </notesData>
+  <utageKanjiName />
+  <comment />
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+  </fixedOptions>
   <jacketFile />
   <thumbnailName />
   <rightFile />

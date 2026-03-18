@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InformationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>information260327013</dataName>
+  <disable>false</disable>
+  <name>
+    <id>260327013</id>
+    <str>260327_01_3：Project ONSOKUちほー アドバタイズムービー</str>
+  </name>
+  <eventName>
+    <id>260327013</id>
+    <str>260327_01_3：Project ONSOKUちほー アドバタイズムービー</str>
+  </eventName>
+  <infoText>Project ONSOKUちほー アドバタイズムービー</infoText>
+  <fileName>
+    <path>UI_DXInfo_260327013.dat</path>
+  </fileName>
+  <infoKind>Movie</infoKind>
+</InformationData>

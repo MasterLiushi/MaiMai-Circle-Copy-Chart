@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UdemaeBossData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>udemaeBoss000003</dataName>
+  <name>
+    <id>3</id>
+    <str>A2</str>
+  </name>
+  <notesDesigner>
+    <id>84</id>
+    <str>翠楼屋</str>
+  </notesDesigner>
+  <music>
+    <id>11309</id>
+    <str>前衛的Landscape</str>
+  </music>
+  <difficulty>
+    <id>2</id>
+    <str>Expert</str>
+  </difficulty>
+  <achieve>975000</achieve>
+  <achieveUnder>974000</achieveUnder>
+  <rating>8500</rating>
+  <daniId>
+    <id>6</id>
+    <str>六段</str>
+  </daniId>
+  <isTransmission>false</isTransmission>
+  <transmissionRelaxEventId>
+    <id>0</id>
+    <str>解放なし</str>
+  </transmissionRelaxEventId>
+</UdemaeBossData>

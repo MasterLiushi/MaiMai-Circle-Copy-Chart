@@ -12,11 +12,11 @@
     <str>maimaiDX CiRCLE</str>
   </IslandId>
   <ReleaseConditionIds>
-    <list/>
+    <list />
   </ReleaseConditionIds>
   <ColorId>
     <id>600056</id>
-    <str>Project ONSOKU</str>
+    <str>ONSOKU</str>
   </ColorId>
   <BonusMusicId>
     <id>600056</id>
@@ -24,12 +24,12 @@
   </BonusMusicId>
   <BonusMusicMagnification>2000</BonusMusicMagnification>
   <OpenEventId>
-    <id>251120031</id>
-    <str>251120_03_1：Project ONSOKUちほー 解禁</str>
+    <id>260327041</id>
+    <str>260327_04_1：Project ONSOKUちほー 解禁</str>
   </OpenEventId>
   <netOpenName>
-    <id>251120</id>
-    <str>Net251120</str>
+    <id>260327</id>
+    <str>Net260327</str>
   </netOpenName>
   <TreasureExDatas>
     <MapTreasureExData>
@@ -118,11 +118,11 @@
       <SubParam1>-1</SubParam1>
       <SubParam2>-1</SubParam2>
       <TreasureId>
-        <id>605661</id>
+        <id>605651</id>
         <str>Project ONSOKUちほー</str>
       </TreasureId>
     </MapTreasureExData>
-      <MapTreasureExData>
+    <MapTreasureExData>
       <Distance>150000</Distance>
       <Flag>DispCharacter</Flag>
       <SubParam1>-1</SubParam1>
@@ -132,7 +132,7 @@
         <str>シャドウ（ジェットブラック）</str>
       </TreasureId>
     </MapTreasureExData>
-      <MapTreasureExData>
+    <MapTreasureExData>
       <Distance>175000</Distance>
       <Flag>DispCharacter</Flag>
       <SubParam1>-1</SubParam1>
@@ -142,7 +142,7 @@
         <str>初音ミク（トレジャーガーデン）</str>
       </TreasureId>
     </MapTreasureExData>
-      <MapTreasureExData>
+    <MapTreasureExData>
       <Distance>200000</Distance>
       <Flag>DispCharacter</Flag>
       <SubParam1>-1</SubParam1>
@@ -152,7 +152,7 @@
         <str>チャオ（トレジャーガーデン）</str>
       </TreasureId>
     </MapTreasureExData>
-      <MapTreasureExData>
+    <MapTreasureExData>
       <Distance>225000</Distance>
       <Flag>DispCharacter</Flag>
       <SubParam1>-1</SubParam1>
@@ -162,7 +162,7 @@
         <str>ダークチャオ（トレジャーガーデン）</str>
       </TreasureId>
     </MapTreasureExData>
-      <MapTreasureExData>
+    <MapTreasureExData>
       <Distance>250000</Distance>
       <Flag>DispCharacter</Flag>
       <SubParam1>-1</SubParam1>
@@ -172,7 +172,7 @@
         <str>トレジャーガーデン</str>
       </TreasureId>
     </MapTreasureExData>
-      <MapTreasureExData>
+    <MapTreasureExData>
       <Distance>285000</Distance>
       <Flag>DispCharacter</Flag>
       <SubParam1>-1</SubParam1>
@@ -182,7 +182,7 @@
         <str>初音ミク（電光刹歌）</str>
       </TreasureId>
     </MapTreasureExData>
-      <MapTreasureExData>
+    <MapTreasureExData>
       <Distance>320000</Distance>
       <Flag>DispCharacter</Flag>
       <SubParam1>-1</SubParam1>
@@ -192,7 +192,7 @@
         <str>ソニック（電光刹歌）</str>
       </TreasureId>
     </MapTreasureExData>
-      <MapTreasureExData>
+    <MapTreasureExData>
       <Distance>355000</Distance>
       <Flag>DispCharacter</Flag>
       <SubParam1>-1</SubParam1>
@@ -202,7 +202,7 @@
         <str>ジェット（電光刹歌）</str>
       </TreasureId>
     </MapTreasureExData>
-      <MapTreasureExData>
+    <MapTreasureExData>
       <Distance>390000</Distance>
       <Flag>DispCharacter</Flag>
       <SubParam1>-1</SubParam1>
@@ -218,7 +218,7 @@
       <SubParam1>-1</SubParam1>
       <SubParam2>-1</SubParam2>
       <TreasureId>
-        <id>605651</id>
+        <id>605661</id>
         <str>Project ONSOKUちほー</str>
       </TreasureId>
     </MapTreasureExData>

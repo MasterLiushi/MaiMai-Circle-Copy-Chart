@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UdemaeBossData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>udemaeBoss000000</dataName>
+  <name>
+    <id>0</id>
+    <str>条件なし</str>
+  </name>
+  <notesDesigner>
+    <id>0</id>
+    <str />
+  </notesDesigner>
+  <music>
+    <id>8</id>
+    <str>True Love Song</str>
+  </music>
+  <difficulty>
+    <id>0</id>
+    <str>Basic</str>
+  </difficulty>
+  <achieve>0</achieve>
+  <achieveUnder>0</achieveUnder>
+  <rating>0</rating>
+  <daniId>
+    <id>0</id>
+    <str>初心者</str>
+  </daniId>
+  <isTransmission>false</isTransmission>
+  <transmissionRelaxEventId>
+    <id>0</id>
+    <str>解放なし</str>
+  </transmissionRelaxEventId>
+</UdemaeBossData>

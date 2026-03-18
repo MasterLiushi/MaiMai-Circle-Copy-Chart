@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1292984357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b21c32eaf4bf64bea9fbf97ca906981
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/Map/Sprite/BG/600056/UI_EventBanner.png
+Dependencies: []

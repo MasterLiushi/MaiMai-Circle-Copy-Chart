@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011365</dataName>
   <netOpenName>
-    <id>210922</id>
-    <str>Net210922</str>
+    <id>220210</id>
+    <str>Net220210</str>
   </netOpenName>
   <releaseTagName>
     <id>2001</id>
@@ -29,7 +29,7 @@
     <str>maimai</str>
   </genreName>
   <bpm>187</bpm>
-  <version>22001</version>
+  <version>22002</version>
   <AddVersion>
     <id>17</id>
     <str>UNiVERSE</str>
@@ -52,8 +52,8 @@
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>1</id>
-    <str>解放なし</str>
+    <id>260327022</id>
+    <str>260327_02_2：Re:MASTER解禁《YA･DA･YO [Reborn],Aetheric Energy,時計の国のジェミニ,アンビバレンス,[X]》</str>
   </subEventName>
   <lockType>0</lockType>
   <subLockType>0</subLockType>
@@ -126,7 +126,7 @@
       <level>13</level>
       <levelDecimal>7</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>4</id>
         <str>Jack</str>
       </notesDesigner>
       <notesType>0</notesType>
